@@ -1,0 +1,148 @@
+
+.h1 > h1{
+    border-radius: 30px;
+    border: 3px solid;
+    border-color: red;
+    background-color: aquamarine;
+    text-align: center;
+    color: blue;
+}
+.h2 {
+    color: blue;
+}
+.h2 b{
+    color: red;
+}
+.h3{
+    color: green;
+}
+.h4{
+    color: red;
+}
+.h5{
+    color: yellow;
+}
+.h6{
+    color: green;
+}
+table{
+    border-collapse: collapse;
+    width: 800px;
+    text-align: center;
+   
+}
+.h8{
+    background-color: yellow;
+}
+.h9{
+    background-color: red;
+}
+.h10{
+    background-color: red;
+}
+.h11{
+    background-color: red;
+}
+.h12{
+    background-color: red;
+}
+.h13{
+    background-color: red;
+}
+.h14{
+    background-color: red;
+}
+.h15{
+    background-color: green;
+}
+.h16{
+    background-color: blueviolet;
+}
+.h17{
+    background-color: blueviolet;
+}
+.h18{
+    background-color: blueviolet;
+}
+.h19{
+    background-color: blueviolet;
+}
+.h20{
+    background-color: blueviolet;
+}
+.h21{
+    background-color: green;
+}
+.h22{
+    background-color: blueviolet;
+}
+.h23{
+    background-color: blueviolet;
+}
+.h24{
+    background-color: blueviolet;
+}
+.h25{
+    background-color: blueviolet;
+}
+.h26{
+    background-color: blueviolet;
+}
+.h27{
+    background-color: green;
+}
+.h28{
+    background-color: blueviolet;
+}
+.h29{
+    background-color: blueviolet;
+}
+.h30{
+    background-color: blueviolet;
+}
+.h31{
+    background-color: blueviolet;
+}
+.h32{
+    background-color: blueviolet;
+}
+.h33{
+    background-color: green;
+}
+.h34{
+    background-color: blueviolet;
+}
+.h35{
+    background-color: blueviolet;
+}
+.h36{
+    background-color: blueviolet;
+}
+.h37{
+    background-color: blueviolet;
+} 
+.h38{
+    background-color: blueviolet;
+}
+.h39{
+    background-color: green;
+}
+.h40{
+    background-color: blueviolet;
+}
+.h41{
+    background-color: blueviolet;
+}
+.h42{
+    background-color: blueviolet;
+}
+.h43{
+    background-color: blueviolet;
+} 
+.h44{
+    background-color: blueviolet;
+}
+.b{
+    background-color: green;
+    text-align: center;
+}
